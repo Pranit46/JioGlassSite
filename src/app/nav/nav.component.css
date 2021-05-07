@@ -1,0 +1,130 @@
+.navbar{
+    background-color: #000!important;
+}
+
+.Icon2{
+    padding-left: 12px;
+}
+
+  .nav-linkone{
+    width: 72px;
+    padding: 35px;
+    height: 24px;
+    font-family: TitilliumWeb;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+  }
+
+  .nav-item a:hover{
+    color: #77BAFF;
+    text-decoration: none;
+  }
+
+  .nav-item1 a:hover{
+    color: #77BAFF;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .nav-item1 a{
+    color: #77BAFF;
+    text-decoration: none;
+    text-align: center;
+  }
+
+
+  #n1{
+    background-color: #191919!important;
+    height: 100px;
+    width: 100% !important;
+    padding-top: 24px;
+}
+
+  
+  .container{ 
+      /*border: 1px solid #fff;*/
+      height: 56px;
+      position: relative;
+      padding-top: 15px;
+  }
+.container span{
+    padding: 19px;
+    top: 128px;
+    left: 428px;
+    width: 29px;
+    height: 23px;
+}
+
+.container a{
+    padding: 2px;
+}
+
+/*.container a:nth-child(2)
+{
+ border-right: 0.2px solid white;
+ padding: 16px;
+ padding-right: 24px;
+}
+*/
+
+.container span 
+{
+    padding: 16px;
+    padding-right: 24px;
+}
+
+.container span a
+{
+ border-right: 0.2px solid white;
+ padding-right: 40px;
+ text-decoration: none;
+ color:#fff;
+}
+
+
+.container span a:hover
+{
+ color:#77BAFF;
+}
+
+
+.container span:last-child a
+{
+ border-right: none;
+ 
+}
+
+.sp1{
+    width: 10px;
+}
+
+
+.cont{
+    height: 10px!important;
+}
+
+ .nav-item1 a{
+    color: #77BAFF;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .header-change{
+   z-index: 1;
+   /* background-color: yellow!important;  */
+   position: fixed;
+   width: 100%;
+  }
+
+  .Secondheader-change{
+    background-color: #191919!important;
+    z-index: 1;
+    width: 100% !important;
+    margin-top: 58px;
+    position: fixed;
+}
